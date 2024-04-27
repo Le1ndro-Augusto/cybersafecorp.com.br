@@ -5760,7 +5760,7 @@ span {
   z-index: 1000;
 }
 .preloader .animation-preloader .spinner {
-  animation: spinner 1s infinite linear;
+  animation: spinner 5s infinite linear;
   border-radius: 50%;
   border: 3px solid rgba(0, 0, 0, 0.2);
   border-top-color: var(--theme);
